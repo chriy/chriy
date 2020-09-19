@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Java
 
 **chriy/chriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-
-- 🌱 I’m currently learning Java
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
