@@ -1,18 +1,12 @@
-### Hi there 👋 I'm a back-end develop engineer
-<!--
-- 🌱 I’m currently learning Java
+### 👋 Hi
 
-**chriy/chriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-![](https://github-readme-stats.vercel.app/api?username=chriy)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm Chris Yang, a back-end developer. It's really nice to meet you.
 
+### 🔭 Most used languages
 
+- Java
+- Python
+- TypeScript
+
+### 📫 How to reach me
+Email is best: [y1ang@outlook.com](mailto:y1ang@outlook.com)
